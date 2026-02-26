@@ -27,4 +27,4 @@ Key Technical Differentiators
 Novelty: Unlike standard "off-the-shelf" AI, this algorithm uses a Greedy Method Selector. It evaluates the cost-function of a task in real-time and decides whether to use a fuzzy approach or an evolutionary approach, minimizing CPU cycles.
 Production Readiness: While the math is theoretical, the implementation is grounded in Clean Code principles, featuring a modular Java/C# codebase with full Unit Testing coverage and CI/CD compatibility.
 
-This is the C# implementation. The java version is private.
+This is the C# implementation.
