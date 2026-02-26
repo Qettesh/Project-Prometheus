@@ -19,7 +19,7 @@ Core Ability Demonstrated: Heuristic Design & Performance Engineering.
 The Challenge: Large-scale AI models often "hallucinate" patterns in noise, leading to high variance and poor generalization.
 The Solution: I applied rigorous Tree Pruning and Gradient Boosting Ensembles. By aggregating the outputs of multiple decision trees and removing low-impact branches, I reduced the model's computational footprint while increasing its predictive accuracy.
 Core Ability Demonstrated: Data Integrity & Statistical Validation.
-4. Scalable Systems Design (AWS Integration)
+4. Scalable Systems Design (AWS /Kubernetes Integration)
 The Challenge: Processing 2 petabytes of data requires massive, distributed horizontal scaling.
 The Solution: Received an Amazon AWS Grant to prototype the environment. I utilized AWS’s distributed infrastructure to validate the algorithm’s ability to maintain O(n \log n) or better efficiency during massive parallel data ingestion.
 Core Ability Demonstrated: Cloud Infrastructure & Scalability Mastery.
